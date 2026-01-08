@@ -1,9 +1,6 @@
 package controller;
 
-import java.net.URL;
 import java.util.List;
-import java.util.ResourceBundle;
-
 import implementation.GestionEmployeDB;
 import javafx.beans.property.SimpleDoubleProperty;
 import javafx.collections.FXCollections;

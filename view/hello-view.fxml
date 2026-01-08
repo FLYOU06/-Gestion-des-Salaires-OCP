@@ -61,7 +61,7 @@
 				<Button mnemonicParsing="false" onAction="#modifierAction" text="Modifier" />
 				<Button mnemonicParsing="false" onAction="#supprimerAction" text="Supprimer" />
 				<Button mnemonicParsing="false" onAction="#afficherAction" text="Afficher" />
-				<Button mnemonicParsing="false" onAction="#salaireMoyenAction" text="Salaire Moyen" />
+				<Button mnemonicParsing="false" onAction="#salaireMoyenAction" text="Salaire Moyen" textAlignment="CENTER" />
 			</children>
 		</HBox>
 		<HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
